@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "d:\\new_files_Zhilin\\other\\Progs\\1.C\\1.VScode\\1.totorial C\\6.TCP chat 02",
+      "environment": [],
+      "program": "d:\\new_files_Zhilin\\other\\Progs\\1.C\\1.VScode\\1.totorial C\\6.TCP chat 02\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
